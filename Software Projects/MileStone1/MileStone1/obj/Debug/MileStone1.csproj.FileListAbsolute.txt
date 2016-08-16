@@ -1,0 +1,12 @@
+C:\Software Projects\MileStone1\MileStone1\bin\Debug\MileStone1.exe.config
+C:\Software Projects\MileStone1\MileStone1\obj\Debug\MileStone1.csprojResolveAssemblyReference.cache
+C:\Software Projects\MileStone1\MileStone1\bin\Debug\MileStone1.exe
+C:\Software Projects\MileStone1\MileStone1\bin\Debug\MileStone1.pdb
+C:\Software Projects\MileStone1\MileStone1\obj\Debug\MileStone1.exe
+C:\Software Projects\MileStone1\MileStone1\obj\Debug\MileStone1.pdb
+C:\Users\jprirm\Documents\GitHub\Chess\Software Projects\MileStone1\MileStone1\bin\Debug\MileStone1.exe.config
+C:\Users\jprirm\Documents\GitHub\Chess\Software Projects\MileStone1\MileStone1\obj\Debug\MileStone1.exe
+C:\Users\jprirm\Documents\GitHub\Chess\Software Projects\MileStone1\MileStone1\obj\Debug\MileStone1.pdb
+C:\Users\jprirm\Documents\GitHub\Chess\Software Projects\MileStone1\MileStone1\bin\Debug\MileStone1.exe
+C:\Users\jprirm\Documents\GitHub\Chess\Software Projects\MileStone1\MileStone1\bin\Debug\MileStone1.pdb
+C:\Users\jprirm\Documents\GitHub\Chess\Software Projects\MileStone1\MileStone1\obj\Debug\MileStone1.csprojResolveAssemblyReference.cache
